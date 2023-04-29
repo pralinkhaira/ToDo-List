@@ -31,7 +31,7 @@ Sure, here's an expanded version of the installation section for the Todo list C
 3. Open a terminal or command prompt and navigate to the directory where the source code is located:
 
    ```
-   cd todo-list-cli
+   cd todo-list
    ```
 
 4. Create a virtual environment for the project (optional):
