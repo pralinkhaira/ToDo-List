@@ -13,7 +13,7 @@ Sure, here's an expanded version of the installation section for the Todo list C
 1. Clone the repository or download the source code:
 
    ```
-   git clone https://github.com/BitH0xker/ToDo-List.git
+   git clone https://github.com/PralinKhaira/ToDo-List.git
    ```
 
    Alternatively, you can download the source code as a ZIP file from the repository's main page on GitHub and extract it to a directory on your computer.
